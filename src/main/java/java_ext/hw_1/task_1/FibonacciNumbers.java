@@ -46,7 +46,7 @@ public class FibonacciNumbers {
 
             long[] f = new long[ints[2]];
             f[0] = oddArray[oddArray.length - 1];
-            f[1] = evenArray[evenArray.length -1];
+            f[1] = evenArray[evenArray.length - 1];
             int evenFib = 1;
             for (int i = 2; i < ints[2]; ++i) {
                 f[i] = f[i - 1] + f[i - 2];

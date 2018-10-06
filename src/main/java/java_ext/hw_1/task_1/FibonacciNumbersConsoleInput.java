@@ -8,7 +8,8 @@ import java.util.List;
 
 public class FibonacciNumbersConsoleInput {
 
-    private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    private static BufferedReader br
+            = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) {
 
@@ -31,12 +32,16 @@ public class FibonacciNumbersConsoleInput {
 
         List<Long> fibNumb = fibonacciNumbers(oddArray, evenArray, input);
 
-        printArrays(oddArray,evenArray);
+        printArrays(oddArray, evenArray);
 
         System.out.println("Odd sum: " + oddSum);
         System.out.println("Even sum: " + evenSum);
-        System.out.println("Percent of odd in Fibonacci numbers: " + (100 - percentOfEven(fibNumb)) + "%.");
-        System.out.println("Percent of even in Fibonacci numbers: " + percentOfEven(fibNumb) + "%.");
+        System.out.println(
+                "Percent of odd in Fibonacci numbers: "
+                        + (100 - percentOfEven(fibNumb)) + "%.");
+        System.out.println(
+                "Percent of even in Fibonacci numbers: "
+                        + percentOfEven(fibNumb) + "%.");
     }
 
     private static int[] readLines() {
@@ -60,7 +65,8 @@ public class FibonacciNumbersConsoleInput {
         return ints;
     }
 
-    private static List<Long> fibonacciNumbers(List<Long> oddArray, List<Long> evenArray, int[] input) {
+    private static List<Long> fibonacciNumbers(
+            List<Long> oddArray, List<Long> evenArray, int[] input) {
         List<Long> f = new ArrayList<>(input[2]);
         f.add(0, oddArray.get(oddArray.size() - 1));
         f.add(1, evenArray.get(evenArray.size() - 1));
@@ -70,7 +76,7 @@ public class FibonacciNumbersConsoleInput {
         return f;
     }
 
-    private static void printArrays(List<Long> oddArray, List<Long> evenArray){
+    private static void printArrays(List<Long> oddArray, List<Long> evenArray) {
         for (Long i : oddArray) {
             System.out.print(i + " ");
         }
