@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baec69e3-c324-47eb-a5e0-ef16dc3136a0" name="Default" comment="After CheckStyle and FindBugs.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/ComponentWithMemory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/Computer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/ComputerPart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/impl/CentralProcessingUnit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/impl/DiskDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/impl/HardDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/impl/RandomAccessMemory.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/java_ext/hw_1/task_1/FibonacciNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/java_ext/hw_1/task_1/FibonacciNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/java_ext/hw_1/task_1/FibonacciNumbersConsoleInput.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/java_ext/hw_1/task_1/FibonacciNumbersConsoleInput.java" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_1/FibonacciNumbersConsoleInput.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/java_ext/hw_1/task_1/task.txt" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_1/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/README.md" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/main/java/java_ext/hw_1/task_1/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/java_ext/hw_2/CentralProcessingUnit.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_ext/hw_2/impl/CentralProcessingUnit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_ext/hw_2/README.md" />
       </list>
     </option>
   </component>
@@ -201,15 +189,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
@@ -424,7 +403,7 @@
       <updated>1538751899645</updated>
       <workItem from="1538751915731" duration="23093000" />
       <workItem from="1538820122498" duration="26923000" />
-      <workItem from="1539257008559" duration="8654000" />
+      <workItem from="1539257008559" duration="8988000" />
     </task>
     <task id="LOCAL-00001" summary="After CheckStyle and FindBugs.">
       <created>1538821124858</created>
@@ -437,7 +416,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58670000" />
+    <option name="totallyTimeSpent" value="59004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -450,6 +429,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="62" width="1551" height="912" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -472,7 +452,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5093333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3087159" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3087159" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -781,17 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_ext/hw_2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_ext/hw_1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -845,6 +814,17 @@
             <element signature="e#1159#1160#0" expanded="true" />
             <element signature="e#1205#1206#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_ext/hw_2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
