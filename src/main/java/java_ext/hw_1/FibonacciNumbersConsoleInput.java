@@ -1,4 +1,4 @@
-package java_ext.hw_1.task_1;
+package java_ext.hw_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
