@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baec69e3-c324-47eb-a5e0-ef16dc3136a0" name="Default" comment="After CheckStyle and FindBugs.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/README.md" afterPath="$PROJECT_DIR$/src/main/java/java_ext/hw_2/README.md" />
-    </list>
+    <list default="true" id="baec69e3-c324-47eb-a5e0-ef16dc3136a0" name="Default" comment="After CheckStyle and FindBugs." />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/java_ext/hw_2/Computer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2034">
-              <caret line="120" column="33" lean-forward="true" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+              <caret line="120" column="33" lean-forward="false" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1768#1769#0" expanded="true" />
@@ -65,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/java_ext/hw_2/ComputerPart.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="48" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="48" />
+              <caret line="5" column="48" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="48" />
               <folding>
                 <element signature="e#1159#1160#0" expanded="true" />
                 <element signature="e#1205#1206#0" expanded="true" />
@@ -403,7 +401,7 @@
       <updated>1538751899645</updated>
       <workItem from="1538751915731" duration="23093000" />
       <workItem from="1538820122498" duration="26923000" />
-      <workItem from="1539257008559" duration="8988000" />
+      <workItem from="1539257008559" duration="9145000" />
     </task>
     <task id="LOCAL-00001" summary="After CheckStyle and FindBugs.">
       <created>1538821124858</created>
@@ -416,7 +414,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59004000" />
+    <option name="totallyTimeSpent" value="59161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -791,7 +789,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/java_ext/hw_2/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2034">
-          <caret line="120" column="33" lean-forward="true" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+          <caret line="120" column="33" lean-forward="false" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1768#1769#0" expanded="true" />
@@ -809,7 +807,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/java_ext/hw_2/ComputerPart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="48" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="48" />
+          <caret line="5" column="48" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="48" />
           <folding>
             <element signature="e#1159#1160#0" expanded="true" />
             <element signature="e#1205#1206#0" expanded="true" />
