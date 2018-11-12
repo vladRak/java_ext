@@ -3,6 +3,29 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hw_1" />
+        <module name="hw_100500" />
+        <module name="hw_2" />
+        <module name="hw_3" />
+        <module name="hw_4" />
+        <module name="project_OOP" />
+        <module name="project_Strings" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hw_1" target="1.8" />
+      <module name="hw_100500" target="1.8" />
+      <module name="hw_2" target="1.8" />
+      <module name="hw_3" target="1.8" />
+      <module name="hw_4" target="1.8" />
+      <module name="java_ext" target="1.8" />
+      <module name="project_OOP" target="1.8" />
+      <module name="project_Strings" target="1.8" />
+      <module name="test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

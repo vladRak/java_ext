@@ -1,13 +1,15 @@
-/out/
-/target/
-/checkstyle/
-/lib/
+out
+target
+checkstyle
+lib
+logs
+.idea/
 
 *.classpath
-*.idea/
 *.project
 *.settings/
 *.class
 *.log
 *.txt
 *.iml
+pom.*
