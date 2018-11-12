@@ -31,8 +31,3 @@ Calculator:
 implement a program, which accepts a String, representing an arithmetic expression in infix notation, as its input parameter, performs the necessary sintactic checks and calculates the result.
 
 Implement a stack/queue/any other ADT yourself if such a data structure should be used in your program.
-
-hw_5.
-
-Create a text processing program for a textbook on programming using classes: Symbol, Word, Sentence, Punctuation, etc. In all problems with the formation of text, replace tabs and sequences of spaces with one space.
-Sort the words of the text by increasing the proportion of vowels (the ratio of the number of vowels to the total number of letters in a word).
