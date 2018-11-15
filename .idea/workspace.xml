@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baec69e3-c324-47eb-a5e0-ef16dc3136a0" name="Default" comment="project_OOP">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/Ammunition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/HandAmmunition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/HeadAmmunition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/OffensiveAmmunition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/ProtectiveAmmunition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/TorsoAmmunition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/impl/AbstractAmmunition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/impl/Armor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/impl/Helmet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/impl/Shield.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/ammunition/impl/Sword.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/Warrior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/body_parts/BodyPart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/body_parts/impl/BodyPartType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/body_parts/impl/Hand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/body_parts/impl/Head.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/body_parts/impl/Torso.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/impl/Knight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/test/java/project_OOP/models/ammunition/impl/ShieldTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/test/java/project_OOP/models/warrior/body_parts/impl/HeadTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/test/java/project_OOP/models/warrior/impl/KnightSerializationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/test/java/project_OOP/models/warrior/impl/KnightTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/Ammunition.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/Knight.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/Offensive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/Protective.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="baec69e3-c324-47eb-a5e0-ef16dc3136a0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_OOP/src/test/java/TaskTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,15 +32,38 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TaskTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project_OOP/src/test/java/TaskTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="76" column="46" lean-forward="false" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KnightTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project_OOP/src/test/java/project_OOP/models/warrior/impl/KnightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/UnderwearAmmunition.java" />
         <option value="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/HandAmmunition.java" />
         <option value="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/Offensive.java" />
@@ -145,6 +141,7 @@
         <option value="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/body_parts/impl/Hand.java" />
         <option value="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/body_parts/impl/Head.java" />
         <option value="$PROJECT_DIR$/project_OOP/src/main/java/project_OOP/models/warrior/body_parts/impl/Torso.java" />
+        <option value="$PROJECT_DIR$/project_OOP/src/test/java/TaskTest.java" />
       </list>
     </option>
   </component>
@@ -190,51 +187,6 @@
             <path>
               <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_3" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
               <item name="project_OOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -242,30 +194,6 @@
               <item name="java_ext" type="462c0819:PsiDirectoryNode" />
               <item name="project_OOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="project_OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="project_OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
-              <item name="project_OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
@@ -290,6 +218,27 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
+              <item name="project_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="warrior" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_ext" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_ext" type="462c0819:PsiDirectoryNode" />
+              <item name="project_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="warrior" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HeadTest.takeOff">
+  <component name="RunManager" selected="JUnit.TaskTest.countAmmunitionPriceTest">
     <configuration name="All in java_ext" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="java_ext" />
@@ -454,19 +403,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="KnightSerializationTest.knightSerializeDeserializeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="project_OOP.models.warrior.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TaskTest.countAmmunitionPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="project_OOP" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="project_OOP.models.warrior.impl" />
-      <option name="MAIN_CLASS_NAME" value="project_OOP.models.warrior.impl.KnightSerializationTest" />
-      <option name="METHOD_NAME" value="knightSerializeDeserializeTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaskTest" />
+      <option name="METHOD_NAME" value="countAmmunitionPriceTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -479,19 +423,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="KnightTest.takeHitWithHeadAmmun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="project_OOP.models.warrior.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TaskTest.sortAmmunitionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="project_OOP" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="project_OOP.models.warrior.impl" />
-      <option name="MAIN_CLASS_NAME" value="project_OOP.models.warrior.impl.KnightTest" />
-      <option name="METHOD_NAME" value="takeHitWithHeadAmmun" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaskTest" />
+      <option name="METHOD_NAME" value="sortAmmunitionTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -664,19 +603,19 @@
       <item index="0" class="java.lang.String" itemvalue="JUnit.All in java_ext" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.java_ext.hw_3 in java_ext" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.java_ext.hw_3.controllers in java_ext" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.KnightTest.takeHitWithHeadAmmun" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.KnightSerializationTest.knightSerializeDeserializeTest" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.All in project_OOP" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.HeadTest" />
-      <item index="7" class="java.lang.String" itemvalue="JUnit.HeadTest.takeOff" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.All in project_OOP" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HeadTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.HeadTest.takeOff" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.TaskTest.sortAmmunitionTest" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.TaskTest.countAmmunitionPriceTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HeadTest.takeOff" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HeadTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.All in project_OOP" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KnightSerializationTest.knightSerializeDeserializeTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.KnightTest.takeHitWithHeadAmmun" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TaskTest.countAmmunitionPriceTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TaskTest.sortAmmunitionTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HeadTest.takeOff" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HeadTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.All in project_OOP" />
       </list>
     </recent_temporary>
   </component>
@@ -703,7 +642,7 @@
       <workItem from="1540820505501" duration="5205000" />
       <workItem from="1541014663958" duration="7243000" />
       <workItem from="1541075478918" duration="8343000" />
-      <workItem from="1541240739241" duration="216362000" />
+      <workItem from="1541240739241" duration="218193000" />
     </task>
     <task id="LOCAL-00001" summary="After CheckStyle and FindBugs.">
       <created>1538821124858</created>
@@ -719,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542020613166</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="project_OOP">
+      <created>1542273739529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542273739529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -738,24 +684,24 @@
     <history-entry file="HeadTest_takeOff - 2018.11.15 at 11h 16m 26s.xml">
       <configuration name="HeadTest.takeOff" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KnightSerializationTest_knightSerializeDeserializeTest - 2018.11.15 at 10h 51m 45s.xml">
-      <configuration name="KnightSerializationTest.knightSerializeDeserializeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KnightSerializationTest_knightSerializeDeserializeTest - 2018.11.15 at 10h 56m 12s.xml">
-      <configuration name="KnightSerializationTest.knightSerializeDeserializeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KnightSerializationTest_knightSerializeDeserializeTest - 2018.11.15 at 10h 58m 39s.xml">
-      <configuration name="KnightSerializationTest.knightSerializeDeserializeTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KnightSerializationTest_knightSerializeDeserializeTest - 2018.11.15 at 11h 00m 18s.xml">
       <configuration name="KnightSerializationTest.knightSerializeDeserializeTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="KnightSerializationTest_knightSerializeDeserializeTest - 2018.11.15 at 11h 02m 12s.xml">
       <configuration name="KnightSerializationTest.knightSerializeDeserializeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TaskTest_countAmmunitionPriceTest - 2018.11.15 at 12h 12m 36s.xml">
+      <configuration name="TaskTest.countAmmunitionPriceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskTest_countAmmunitionPriceTest - 2018.11.15 at 12h 13m 07s.xml">
+      <configuration name="TaskTest.countAmmunitionPriceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskTest_sortAmmunitionTest - 2018.11.15 at 12h 06m 32s.xml">
+      <configuration name="TaskTest.sortAmmunitionTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="483502000" />
+    <option name="totallyTimeSpent" value="485333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -768,10 +714,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="62" width="1551" height="912" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39466667" sideWeight="0.5023287" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.50365937" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -782,11 +729,11 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.49634066" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39466667" sideWeight="0.49767134" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39466667" sideWeight="0.49767134" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -866,16 +813,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hw_2/src/main/java/hw_2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw_4/src/main/java/hw_4/controller/CalcController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
@@ -1223,14 +1160,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_OOP/src/test/java/project_OOP/models/warrior/impl/KnightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1332">
-          <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_OOP/src/test/java/project_OOP/models/warrior/body_parts/impl/HeadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
@@ -1303,6 +1232,24 @@
         <state relative-caret-position="18">
           <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="52" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_OOP/src/test/java/project_OOP/models/warrior/impl/KnightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_OOP/src/test/java/TaskTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="76" column="46" lean-forward="false" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
