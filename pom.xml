@@ -16,6 +16,7 @@
         <module>project_OOP</module>
         <module>project_Strings</module>
         <module>hw_5</module>
+        <module>project_XML</module>
     </modules>
 
     <dependencies>

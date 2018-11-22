@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<coldWeapons>
+    <knife id="1">
+        <type>Knife</type>
+        <handy>OneHanded</handy>
+        <origin>UA</origin>
+        <visual>
+            <length>30</length>
+            <material>Steel</material>
+        </visual>
+        <value>true</value>
+    </knife>
+    <knife id="2">
+        <type>Sword</type>
+        <handy>OneHanded</handy>
+        <origin>PL</origin>
+        <visual>
+            <length>100</length>
+            <material>Steel</material>
+        </visual>
+        <value>false</value>
+    </knife>
+    <knife id="3">
+        <type>Sword</type>
+        <handy>TwoHanded</handy>
+        <origin>DE</origin>
+        <visual>
+            <length>130</length>
+            <material>Steel</material>
+        </visual>
+        <value>true</value>
+    </knife>
+</coldWeapons>

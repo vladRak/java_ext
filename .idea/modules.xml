@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/java_ext.iml" filepath="$PROJECT_DIR$/java_ext.iml" />
       <module fileurl="file://$PROJECT_DIR$/project_OOP/project_OOP.iml" filepath="$PROJECT_DIR$/project_OOP/project_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/project_Strings/project_Strings.iml" filepath="$PROJECT_DIR$/project_Strings/project_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_XML/project_XML.iml" filepath="$PROJECT_DIR$/project_XML/project_XML.iml" />
     </modules>
   </component>
 </project>
